@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "forged_depths:block/magma_vent"
+    },
+    "active=true": {
+      "model": "forged_depths:block/magma_vent_active"
+    }
+  }
+}

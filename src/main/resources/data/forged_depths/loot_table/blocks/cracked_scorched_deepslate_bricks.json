@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "forged_depths:blocks/cracked_scorched_deepslate_bricks",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "forged_depths:cracked_scorched_deepslate_bricks"
+        }
+      ]
+    }
+  ]
+}

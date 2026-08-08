@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "forged_depths:block/guide_rune"
+    },
+    "facing=east": {
+      "model": "forged_depths:block/guide_rune",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "forged_depths:block/guide_rune",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "forged_depths:block/guide_rune",
+      "y": 270
+    }
+  }
+}

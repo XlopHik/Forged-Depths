@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:entity",
+  "random_sequence": "forged_depths:entities/slag_golem",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "forged_depths:forge_seal",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

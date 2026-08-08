@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": "forged_depths:emberforged_ingot",
+    "C": "minecraft:compass",
+    "H": "forged_depths:cinder_heart"
+  },
+  "pattern": [
+    " E ",
+    "ECE",
+    " H "
+  ],
+  "result": {
+    "count": 1,
+    "id": "forged_depths:forge_compass"
+  }
+}

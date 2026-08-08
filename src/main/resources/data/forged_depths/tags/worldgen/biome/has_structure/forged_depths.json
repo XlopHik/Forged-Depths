@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#minecraft:is_mountain",
+    "minecraft:dark_forest",
+    "minecraft:deep_dark",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_forest",
+    "minecraft:dripstone_caves"
+  ]
+}

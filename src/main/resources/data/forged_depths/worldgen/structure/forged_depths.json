@@ -1,0 +1,33 @@
+{
+  "type": "forged_depths:forged_depths",
+  "biomes": "#forged_depths:has_structure/forged_depths",
+  "step": "underground_structures",
+  "terrain_adaptation": "none",
+  "min_floor_y": -58,
+  "max_floor_y": -50,
+  "spawn_overrides": {
+    "monster": {
+      "bounding_box": "piece",
+      "spawns": [
+        {
+          "type": "forged_depths:ember_wisp",
+          "weight": 8,
+          "minCount": 1,
+          "maxCount": 3
+        },
+        {
+          "type": "forged_depths:ashen_smith",
+          "weight": 5,
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "type": "forged_depths:slag_golem",
+          "weight": 1,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    }
+  }
+}

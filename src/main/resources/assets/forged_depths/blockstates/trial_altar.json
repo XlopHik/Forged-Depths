@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "active=false,wave=0": {
+      "model": "forged_depths:block/trial_altar"
+    },
+    "active=false,wave=1": {
+      "model": "forged_depths:block/trial_altar"
+    },
+    "active=false,wave=2": {
+      "model": "forged_depths:block/trial_altar"
+    },
+    "active=false,wave=3": {
+      "model": "forged_depths:block/trial_altar"
+    },
+    "active=true,wave=0": {
+      "model": "forged_depths:block/trial_altar_active"
+    },
+    "active=true,wave=1": {
+      "model": "forged_depths:block/trial_altar_active"
+    },
+    "active=true,wave=2": {
+      "model": "forged_depths:block/trial_altar_active"
+    },
+    "active=true,wave=3": {
+      "model": "forged_depths:block/trial_altar_active"
+    }
+  }
+}

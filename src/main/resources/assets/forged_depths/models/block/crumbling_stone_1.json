@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "forged_depths:block/crumbling_stone_1"
+  }
+}

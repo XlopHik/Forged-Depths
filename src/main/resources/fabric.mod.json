@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "forged_depths",
+  "version": "${version}",
+  "name": "Forged Depths",
+  "description": "Забытая кузница Древних — заброшенный кузнечный комплекс глубоко под землёй. Смертельные ловушки, стражи-кузнецы, испепеляющий жар и наковальня, которая чинит что угодно... пока не рассыплется.",
+  "authors": [
+    "luvhvrt"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/forged_depths/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.forgeddepths.ForgedDepths"
+    ],
+    "client": [
+      "com.forgeddepths.client.ForgedDepthsClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

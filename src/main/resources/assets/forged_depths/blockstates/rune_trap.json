@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "triggered=false": {
+      "model": "forged_depths:block/rune_trap"
+    },
+    "triggered=true": {
+      "model": "forged_depths:block/rune_trap_triggered"
+    }
+  }
+}

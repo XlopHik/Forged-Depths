@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "stage=0": {
+      "model": "forged_depths:block/crumbling_stone_0"
+    },
+    "stage=1": {
+      "model": "forged_depths:block/crumbling_stone_1"
+    },
+    "stage=2": {
+      "model": "forged_depths:block/crumbling_stone_2"
+    }
+  }
+}

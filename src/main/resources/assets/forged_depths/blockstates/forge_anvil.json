@@ -1,0 +1,94 @@
+{
+  "variants": {
+    "charges=0,facing=north": {
+      "model": "forged_depths:block/forge_anvil_0"
+    },
+    "charges=0,facing=east": {
+      "model": "forged_depths:block/forge_anvil_0",
+      "y": 90
+    },
+    "charges=0,facing=south": {
+      "model": "forged_depths:block/forge_anvil_0",
+      "y": 180
+    },
+    "charges=0,facing=west": {
+      "model": "forged_depths:block/forge_anvil_0",
+      "y": 270
+    },
+    "charges=1,facing=north": {
+      "model": "forged_depths:block/forge_anvil_1"
+    },
+    "charges=1,facing=east": {
+      "model": "forged_depths:block/forge_anvil_1",
+      "y": 90
+    },
+    "charges=1,facing=south": {
+      "model": "forged_depths:block/forge_anvil_1",
+      "y": 180
+    },
+    "charges=1,facing=west": {
+      "model": "forged_depths:block/forge_anvil_1",
+      "y": 270
+    },
+    "charges=2,facing=north": {
+      "model": "forged_depths:block/forge_anvil_2"
+    },
+    "charges=2,facing=east": {
+      "model": "forged_depths:block/forge_anvil_2",
+      "y": 90
+    },
+    "charges=2,facing=south": {
+      "model": "forged_depths:block/forge_anvil_2",
+      "y": 180
+    },
+    "charges=2,facing=west": {
+      "model": "forged_depths:block/forge_anvil_2",
+      "y": 270
+    },
+    "charges=3,facing=north": {
+      "model": "forged_depths:block/forge_anvil_3"
+    },
+    "charges=3,facing=east": {
+      "model": "forged_depths:block/forge_anvil_3",
+      "y": 90
+    },
+    "charges=3,facing=south": {
+      "model": "forged_depths:block/forge_anvil_3",
+      "y": 180
+    },
+    "charges=3,facing=west": {
+      "model": "forged_depths:block/forge_anvil_3",
+      "y": 270
+    },
+    "charges=4,facing=north": {
+      "model": "forged_depths:block/forge_anvil_4"
+    },
+    "charges=4,facing=east": {
+      "model": "forged_depths:block/forge_anvil_4",
+      "y": 90
+    },
+    "charges=4,facing=south": {
+      "model": "forged_depths:block/forge_anvil_4",
+      "y": 180
+    },
+    "charges=4,facing=west": {
+      "model": "forged_depths:block/forge_anvil_4",
+      "y": 270
+    },
+    "charges=5,facing=north": {
+      "model": "forged_depths:block/forge_anvil_5"
+    },
+    "charges=5,facing=east": {
+      "model": "forged_depths:block/forge_anvil_5",
+      "y": 90
+    },
+    "charges=5,facing=south": {
+      "model": "forged_depths:block/forge_anvil_5",
+      "y": 180
+    },
+    "charges=5,facing=west": {
+      "model": "forged_depths:block/forge_anvil_5",
+      "y": 270
+    }
+  }
+}

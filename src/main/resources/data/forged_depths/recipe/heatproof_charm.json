@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": "forged_depths:emberforged_ingot",
+    "H": "forged_depths:cinder_heart",
+    "B": "minecraft:blue_ice",
+    "S": "minecraft:iron_chain"
+  },
+  "pattern": [
+    " S ",
+    "EBE",
+    " H "
+  ],
+  "result": {
+    "count": 1,
+    "id": "forged_depths:heatproof_charm"
+  }
+}
